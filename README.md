@@ -10,3 +10,4 @@ simple marquee text with link. "Welcome to a sugalabs".
 If you click the link, it will redirect to sugarlabs
 
 # New Branch Created
+sugarlabs branch created and merged
